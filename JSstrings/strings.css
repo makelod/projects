@@ -1,0 +1,21 @@
+.cap {
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+    width: 1300px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.se {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
