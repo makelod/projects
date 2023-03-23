@@ -1,0 +1,28 @@
+.ias {
+
+    width: 400px;
+        margin-left: auto;
+  margin-right: auto;
+}
+
+.iasd {
+
+    width: 150px;
+    margin-left: auto;
+  margin-right: auto;
+
+}
+
+.swae {
+
+    width: 210px;
+}
+
+canvas {
+
+    width: 210px;
+    height: 210px;
+    border: 2px solid black;
+    
+    }
+    
