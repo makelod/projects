@@ -1,0 +1,11 @@
+C:\Users\lwit.PROD\source\repos\DistanceTraveled\DistanceTraveled\bin\Debug\DistanceTraveled.exe.config
+C:\Users\lwit.PROD\source\repos\DistanceTraveled\DistanceTraveled\bin\Debug\DistanceTraveled.exe
+C:\Users\lwit.PROD\source\repos\DistanceTraveled\DistanceTraveled\bin\Debug\DistanceTraveled.pdb
+C:\Users\lwit.PROD\source\repos\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.csproj.AssemblyReference.cache
+C:\Users\lwit.PROD\source\repos\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.csproj.SuggestedBindingRedirects.cache
+C:\Users\lwit.PROD\source\repos\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.Properties.Resources.resources
+C:\Users\lwit.PROD\source\repos\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.csproj.GenerateResource.cache
+C:\Users\lwit.PROD\source\repos\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.csproj.CoreCompileInputs.cache
+C:\Users\lwit.PROD\source\repos\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.exe
+C:\Users\lwit.PROD\source\repos\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.pdb
+C:\Users\lwit.PROD\source\repos\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.Form1.resources
